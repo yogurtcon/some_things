@@ -19,7 +19,7 @@
 
 进入网易游戏人才库
 
-![图片](https://raw.githubusercontent.com/yogurtcon/something/master/%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%E4%BA%BA%E6%89%8D%E5%BA%93.jpg)
+![图片](https://raw.githubusercontent.com/yogurtcon/some_things/master/%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%E4%BA%BA%E6%89%8D%E5%BA%93.jpg)
 
 ## 2019/11/18
 
