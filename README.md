@@ -128,3 +128,7 @@ A couple days later, I come back again. My graduation design is being optimized,
 # 2020/3/20
 
 Last night I still stayed up late. In fact, when I turned off the light and went to bed, I could fall asleep, but I still took my phone, watch it, and didn't want to stop. I have been playing my computer and phone all day, so why do I still want to play when I lie in bed at night? To sleep or not to sleep, that's a question. Fuck it
+
+## 2020/3/21
+
+so u know, last night, didn't sleep until 1:00 in the morning, again, and again. After drinking traditional Chinese medicine, I feel my body is not so bad, so I relax my vigilance, hum. The handwritten Chinese character recognition system has finally completed the function of recognizing multiple Chinese characters, and now only the optimization of the algorithm is left.
