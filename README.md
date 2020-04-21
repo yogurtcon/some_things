@@ -144,3 +144,7 @@ Yesterday, opened the box in Lor, I got two yellow cards, cool.At night, I had g
 # 2020/4/14
 
 Thousands of years later, I came back. You guys didn't expect it, right? I didn't expect it, too. I didn't expect that I would come back after such a long time. In this period of time, I am still playing and changing games. Today, I think of two labels for myself. Although they are not very accurate, one is called 'new-struck', because I like new things very much, and the other is called 'the party of loopholes', that sounds interesting. After playing the game, I finally changed my paper to a more satisfactory one, it's not easy, yes. Next, I have to do something, although I think I will continue to be a saltfish.
+
+# 2020/4/21
+
+U know what, I feel like I'm spending my summer vacation now. The weather is getting hotter. I still have nothing to do all day. I've been at home for several months. Have I made any progress in any aspect? I haven't learned at all. I haven't made any progress in English. I haven't watched programming at all. I play games and watch videos every day. I stay up late at night and watch mobile phones. It's really a terrible thing that I can muddle through these months 。 Talk about the past few days, I've entered the talent pool of Netease game again. I didn't pass the interview about the programming teacher that Iman asked me to go to, and then the voice of China
